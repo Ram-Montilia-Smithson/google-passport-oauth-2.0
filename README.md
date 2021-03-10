@@ -1,1 +1,1 @@
-# learning and practicing Oauth 2.0 implementation using passport in a React.js web app
+# learning and practicing Oauth 2.0 implementation using passport with a react web app

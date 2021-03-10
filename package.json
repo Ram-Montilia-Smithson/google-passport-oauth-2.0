@@ -1,7 +1,7 @@
 {
   "name": "google-passport-oauth-2.0",
   "version": "0.1.0",
-  "description": "Oauth 2.0 implementation using passport in a React.js web app.",
+  "description": "# learning and practicing Oauth 2.0 implementation using passport with a react web app.",
   "private": true,
   "author": "Ram Montilia Smithson",
   "license": "Unlicensed",
